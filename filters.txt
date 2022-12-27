@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 1.0
+! Version: 
 ! Title: Kişisel Reklam Engelleme Listem
-! Last modified: 27.12.2022
+! Last modified: 
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/teknikofis14/blockads
 !
-||virgul.com
+||ng.virgul.com
 virgul.com
