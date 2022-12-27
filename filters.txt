@@ -1,9 +1,9 @@
-! Title: Kişisel Reklam Engelleme Filtresi
-! Homepage: https://github.com/teknikofis14/blockads/
-! Description: This is my personel experimental element hiding rules for websites. Attention! This filter can potentially cause conflicts and mess with websites!
-! 
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: Kişisel Reklam Engelleme Listem
+! Last modified: 27.12.2022
+! Expires: 3 days (update frequency)
+! Homepage: https://github.com/teknikofis14/blockads
 !
-! ---------------------------------------------------------
-! Reklam Gizleme Kuralları - Ad Hiding Rules
-! ---------------------------------------------------------
 ||virgul.com
+virgul.com
