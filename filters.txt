@@ -5,5 +5,5 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/teknikofis14/blockads
 !
-||ng.virgul.com
 virgul.com
+www.haberler.com##DIV[id="detay_masthead"]
