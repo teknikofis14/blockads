@@ -5,5 +5,33 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/teknikofis14/blockads
 !
+! ---------------------------------------------------------
+! Reklam Şirketleri
+! ---------------------------------------------------------
 virgul.com
+!
+! ---------------------------------------------------------
+! Haber Siteleri
+! ---------------------------------------------------------
 www.haberler.com##DIV[id="detay_masthead"]
+!
+! ---------------------------------------------------------
+! Dizi-Film İzleme Siteleri
+! ---------------------------------------------------------
+finema.net
+finema-net.cdn.ampproject.org
+income-front-data.s3.fr-par.scw.cloud/rotorfon/hdfilmcehennemi/desktop/bt.jpg
+income-front-data.s3.fr-par.scw.cloud/rotorfon/hdfilmcehennemi/desktop/pb.jpg
+yabancidizi.co##[id="playersag"]
+www.dizibox.tv##[class="box-header-bottom"]
+www.dizibox.tv##[class="box-sidebar bg-dark m-b-2"]
+yabancidizi.co##[id="playersag"]
+https://cplayer.pw/112pari.mp4
+https://cplayer.pw/bettiltdec.mp4
+!
+! ---------------------------------------------------------
+! Hdfilmcehennemi
+! ---------------------------------------------------------
+www.hdfilmcehennemi.life##[class="card card-dark card-money text-center mt-4 mb-4"]
+www.hdfilmcehennemi.life##[class="rotorfon-item"]
+www.hdfilmcehennemi.life##[class="card-money money-text"]
